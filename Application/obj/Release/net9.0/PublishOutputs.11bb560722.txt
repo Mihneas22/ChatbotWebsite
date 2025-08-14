@@ -1,5 +1,0 @@
-C:\Users\Mihnea\BlazorProjects\deploy\Application.dll
-C:\Users\Mihnea\BlazorProjects\deploy\Application.deps.json
-C:\Users\Mihnea\BlazorProjects\deploy\Application.pdb
-C:\Users\Mihnea\BlazorProjects\deploy\Domain.dll
-C:\Users\Mihnea\BlazorProjects\deploy\Domain.pdb

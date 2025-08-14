@@ -1,5 +1,0 @@
-C:\Users\Mihnea\BlazorProjects\ChatbotWebsite\publish\Application.dll
-C:\Users\Mihnea\BlazorProjects\ChatbotWebsite\publish\Application.deps.json
-C:\Users\Mihnea\BlazorProjects\ChatbotWebsite\publish\Application.pdb
-C:\Users\Mihnea\BlazorProjects\ChatbotWebsite\publish\Domain.dll
-C:\Users\Mihnea\BlazorProjects\ChatbotWebsite\publish\Domain.pdb
